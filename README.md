@@ -47,4 +47,4 @@ This analysis uses the TMDB Movie Data dataset (not included in this repo). A si
 
 ## Author
 
-Analysis by Emmanuel Kamsi
+Analysis by Onyebueke Amarachi Kamsi
